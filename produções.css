@@ -33,3 +33,50 @@ nav img{
     width: 90px;
     height: auto;
 }
+
+.produções {
+    display: flex;             
+    align-items: center;       
+    gap: 20px;                 
+    max-width: 900px;
+    margin: 40px auto;
+}  
+.livro {
+    display: block;
+    text-align: justify left;
+}
+
+.picture img{
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.broad img{
+  width: 80;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  display: block;
+  margin: 0 auto;
+}
+.musical {
+    display: block;
+    align-items: center;
+    gap: 30px;
+    align-items: center;
+    margin: 40px;
+}
+
+.broadway {
+    display: block;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+.forgood img{
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    border-radius: 25px;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.3);
+}
